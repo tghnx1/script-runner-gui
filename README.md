@@ -26,19 +26,10 @@ A modern Swing-based GUI application for running Kotlin and Swift scripts with l
 
 
 ### Main Interface
-```
-┌─────────────────────────────────────────────────────────────┐
-│ [Run] [Stop] Language: [Kotlin ▼] │ Idle │ Exit: —          │
-├────────────────────┬────────────────────────────────────────┤
-│                    │                                        │
-│  fun main() {      │  Hello from script                     │
-│    val x = 10      │  Processing...                         │
-│    println("Hi")   │  script.kts:2:1: error: ...            │
-│  }                 │                                        │
-│                    │                                        │
-└────────────────────┴────────────────────────────────────────┘
-     Editor                         Output
-```
+
+![Screenshot 2026-01-04 at 19.05.53.png](screenshots/Screenshot%202026-01-04%20at%2019.05.53.png)
+![img.png](screenshots/img.png)
+![demo.gif](screenshots/demo.gif)
 
 ## Requirements
 
