@@ -30,7 +30,7 @@ A modern Swing-based GUI application for running Kotlin and Swift scripts with l
 ![Screenshot 2026-01-04 at 19.05.53.png](screenshots/Screenshot%202026-01-04%20at%2019.05.53.png)
 ![img.png](screenshots/img.png)
 ![demo.gif](screenshots/demo.gif)
-
+[Screen Recording 2026-01-04 at 19.09.16.mov](screenshots/Screen%20Recording%202026-01-04%20at%2019.09.16.mov)
 
 ## Requirements
 
