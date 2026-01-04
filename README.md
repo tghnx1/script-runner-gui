@@ -24,17 +24,16 @@ A modern Swing-based GUI application for running Kotlin and Swift scripts with l
 - **Concurrent Stream Capture**: Both stdout and stderr displayed in real-time
 - **Process Cleanup**: Automatic process termination on window close
 
-## Screenshots
 
 ### Main Interface
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ [Run] [Stop] Language: [Kotlin ▼] │ Idle │ Exit: —         │
+│ [Run] [Stop] Language: [Kotlin ▼] │ Idle │ Exit: —          │
 ├────────────────────┬────────────────────────────────────────┤
 │                    │                                        │
 │  fun main() {      │  Hello from script                     │
 │    val x = 10      │  Processing...                         │
-│    println("Hi")   │  script.kts:2:1: error: ...           │
+│    println("Hi")   │  script.kts:2:1: error: ...            │
 │  }                 │                                        │
 │                    │                                        │
 └────────────────────┴────────────────────────────────────────┘
@@ -279,10 +278,6 @@ Potential improvements (not implemented):
 - Likely a very long-running script
 - Use Stop button to terminate
 - Check script logic for infinite loops
-
-## License
-
-[Specify your license here]
 
 ## Contributing
 
